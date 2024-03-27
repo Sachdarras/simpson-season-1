@@ -1,4 +1,4 @@
-import Avatar from "./components/Avatar";
+import Avatar from "./composants/Avatar";
 
 function App() {
 	const personnages = [
