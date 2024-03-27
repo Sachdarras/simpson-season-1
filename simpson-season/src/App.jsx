@@ -15,9 +15,9 @@ function App () {
     <Avatar firstName="Marge" lastName="Simpsons" image="https://www.stickees.com/files/cartoon/the-simpsons/2252-marge-simpson-sticker.png"/>
 
     <Avatar firstName="Lisa" lastName="Simpsons" image="https://www.stickees.com/files/cartoon/the-simpsons/2262-itunes-lisa-sticker.png"/>
-    
+
      <Avatar firstName="Maggy" lastName="Simpsons" image="https://www.stickees.com/files/cartoon/the-simpsons/2374-ftp-client-sticker.png"/>
-      </div> );
+      </div> )
 }
 
 export default App;
