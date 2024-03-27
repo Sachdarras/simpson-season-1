@@ -1,6 +1,4 @@
 
-
-
 function Avatar(props){
 
   return(
